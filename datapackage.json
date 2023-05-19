@@ -165,7 +165,7 @@
       "hash": "ace234edeecaa0d3887366c775554ec0",
       "mediatype": "text/csv",
       "name": "__os_imported__city-of-redacre-spending",
-      "path": "https://storage.openspending.org/city-of-redacre-spending/__os_imported__city-of-redacre-spending.csv",
+      "path": "https://storage.openspending.org/city-of-redacre-expenditure/__os_imported__city-of-redacre-spending.csv",
       "schema": {
         "fields": [
           {
